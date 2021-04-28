@@ -11,7 +11,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Freelance headless WordPress&nbsp;developer](https://durgeshgupta.com/2021/04/26/freelance-headless-wordpress-developer/)
 - [SEO tips for new&nbsp;Website](https://durgeshgupta.com/2021/03/13/seo-tips-for-new-website/)
 - [Freelance Laravel Developer in&nbsp;Mumbai](https://durgeshgupta.com/2020/11/16/freelance-laravel-developer-in-mumbai/)
