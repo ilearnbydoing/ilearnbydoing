@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durgesh Gupta</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
 <p>I design websites build web and mobile apps and promote them online, I have been doing this since last 15 years and creating values for my clients.</p>
+<p>Feel free to contact me for consultancy and to start a new project.</p>
 
 <p align="left"> <a href="https://twitter.com/ilearnbydoing" target="blank"><img src="https://img.shields.io/twitter/follow/ilearnbydoing?logo=twitter&style=for-the-badge" alt="ilearnbydoing" /></a> </p>
 
