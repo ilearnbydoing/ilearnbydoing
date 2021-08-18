@@ -11,10 +11,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuxtjs developer in Mumbai&nbsp;suburban](https://durgeshgupta.com/2021/07/12/nuxtjs-developer-in-mumbai-suburban/)
-- [Freelance headless WordPress&nbsp;developer](https://durgeshgupta.com/2021/04/26/freelance-headless-wordpress-developer/)
-- [SEO tips for new&nbsp;Website](https://durgeshgupta.com/2021/03/13/seo-tips-for-new-website/)
-- [Freelance Laravel Developer in&nbsp;Mumbai](https://durgeshgupta.com/2020/11/16/freelance-laravel-developer-in-mumbai/)
+- [Freelance WordPress Developer in Mumbai](https://durgeshgupta.com//blog/freelance-wordpress-developer-in-mumbai)
+- [Nuxtjs developer in Mumbai suburban](https://durgeshgupta.com//blog/nuxtjs-developer-in-mumbai-suburban)
+- [Freelance headless WordPress developer](https://durgeshgupta.com//blog/freelance-headless-wordpress-developer)
+- [SEO tips for new Website](https://durgeshgupta.com//blog/seo-tips-for-new-website)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
