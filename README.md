@@ -11,9 +11,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Freelance WordPress Developer in Mumbai](https://durgeshgupta.com//blog/freelance-wordpress-developer-in-mumbai)
 - [Start a food delivery business](https://durgeshgupta.com//blog/start-a-food-delivery-business)
 - [TinaCMS - A serverless visual editor](https://durgeshgupta.com//blog/tinacms-a-serverless-visual-editor)
+- [Freelance WordPress Developer in Mumbai](https://durgeshgupta.com//blog/freelance-wordpress-developer-in-mumbai)
 - [Nuxtjs developer in Mumbai suburban](https://durgeshgupta.com//blog/nuxtjs-developer-in-mumbai-suburban)
 <!-- BLOG-POST-LIST:END -->
 
