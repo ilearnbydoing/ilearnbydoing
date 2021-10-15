@@ -11,10 +11,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get super-fast website to improve SEO](https://durgeshgupta.com//blog/get-super-fast-website-to-improve-seo)
 - [Start a food delivery business](https://durgeshgupta.com//blog/start-a-food-delivery-business)
 - [TinaCMS - A serverless visual editor](https://durgeshgupta.com//blog/tinacms-a-serverless-visual-editor)
 - [Freelance WordPress Developer in Mumbai](https://durgeshgupta.com//blog/freelance-wordpress-developer-in-mumbai)
-- [Nuxtjs developer in Mumbai suburban](https://durgeshgupta.com//blog/nuxtjs-developer-in-mumbai-suburban)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
